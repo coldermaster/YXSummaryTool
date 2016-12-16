@@ -1,0 +1,51 @@
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.exe.config
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.exe
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.pdb
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Doc.dll
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.License.dll
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Pdf.dll
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Doc.xml
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.License.xml
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.csprojResolveAssemblyReference.cache
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.exe
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.pdb
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.dll
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OOXML.dll
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\yehlouis\documents\visual studio 2013\Projects\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.xml
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.exe.config
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.exe
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.pdb
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.exe
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.pdb
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.dll
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OOXML.dll
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Doc.dll
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.License.dll
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Pdf.dll
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.xml
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Doc.xml
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.License.xml
+D:\Document\YX\codes\YXSummaryTool\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.csprojResolveAssemblyReference.cache
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.exe.config
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.exe
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.pdb
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\obj\Debug\YXSummaryTool.csprojResolveAssemblyReference.cache
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.exe
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\YXSummaryTool.pdb
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.dll
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OOXML.dll
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OpenXml4Net.dll
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Doc.dll
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.License.dll
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Pdf.dll
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\NPOI.xml
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.Doc.xml
+D:\project\YXSummaryTool\YXSummaryTool\YXSummaryTool\bin\Debug\Spire.License.xml
